@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋 I'm Dhiraj Wasu!</h1>
+
 <p align="center">
 	<a href="https://dhiraj-wasu.github.io/"><img src="https://img.shields.io/badge/portfolio-E6007A?style=for-the-badge&logo=polkadot&logoColor=000" alt="Portfolio"></a>
 	<a href="mailto:prathmesh613@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -11,14 +12,32 @@
 	<a href="https://github.com/dhiraj-wasu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Recursion"></a>
 	<a href="https://stackoverflow.com/users/17860142/dhiraj-wasu"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"></a>
 	<a href="https://forum.xda-developers.com/m/prathmesh613.6961670/"><img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA Developers"></a>
-	
-</p>
-	
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhiraj-wasu" alt="Views on Profile"> </p>
-<p align="center">
-<img width="420px" height="160px" src="https://github-readme-stats.vercel.app/api?username=dhiraj-wasu&count_private=true&show_icons=true&theme=radical" alt="GitHub Status">
-<img width="420px" height="160px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-wasu&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
-<p align="center"> <img width="900px" height="300px" src="https://github-readme-streak-stats.herokuapp.com?user=dhiraj-wasu&theme=dark&hide_border=true"> </p>
+---
+
+## 👨‍💻 About Me  
+
+🔭 Currently focused on: **End-to-End Engineering** — Backend 💾 + DevOps ⚙️ + CI/CD 🚀 + Cloud ☁️  
+🌱 Aspiring **AI Solution Architect** — connecting software engineering with intelligent, scalable systems 🤖  
+⚡ Love working across the stack: designing APIs, automating workflows, optimizing infra & experimenting with AI  
+📖 Lifelong learner — diving into **system design, distributed systems, and AI-driven architectures** 📚  
+☁️ **2025 Goal:** Build cloud-native platforms that merge scalability, reliability, and intelligence  
+💡 **Motto:** *Not just a backend dev — a problem solver across the stack* ✨  
+
+---
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=dhiraj-wasu" alt="Views on Profile"> 
+</p>
+
+<p align="center">
+	<img width="420px" height="160px" src="https://github-readme-stats.vercel.app/api?username=dhiraj-wasu&count_private=true&show_icons=true&theme=radical" alt="GitHub Status">
+	<img width="420px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-wasu&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
+
+<p align="center"> 
+	<img width="900px" height="300px" src="https://github-readme-streak-stats.herokuapp.com?user=dhiraj-wasu&theme=dark&hide_border=true"> 
+</p>
+
 # dhiraj-wasu

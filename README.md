@@ -18,6 +18,7 @@
 
 ## 👨‍💻 About Me  
 🔭 Currently focused on Backend Engineering & System Design — scalable APIs 💾, distributed systems 🌍, and cloud infra ☁️
+
 🌱 Comfortable with the entire development lifecycle — from writing backend logic to setting up CI/CD pipelines ⚙️, and I can pick up frontend when the project demands it 🎨
 ❤️ My real passion lies in building systems: making them scalable, reliable, and production-ready
 📖 Always learning — exploring AI, cloud-native infra, and platform engineering to grow toward AI Solution Architect

@@ -52,7 +52,6 @@ I don’t just write code — I build products by connecting
 ### 📫 Reach Me
 
 - 📧 Email: **dhirajwasu120@gmail.com**
-- 🌐 Portfolio: **[dhiraj-wasu.github.io](https://dhiraj-wasu.github.io/)**
 - 💼 LinkedIn: **[Dhiraj Wasu](https://www.linkedin.com/in/dhiraj-wasu-71bb271b4/)**
 
 ---

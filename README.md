@@ -1,6 +1,14 @@
-<!-- [![MasterHead] -->
 <h1 align="center">👋🏻 Hey there, I'm Dhiraj Wasu</h1>
-<h3 align="center"> CSE Undergraduate | Backend Engineer | AI & Systems Enthusiast</h3>
+<h3 align="center">
+CSE Undergraduate | Technical Product Builder | Backend & AI Systems Engineer
+</h3>
+
+<p align="center">
+<i>
+I don’t just write code — I build products by connecting
+<b>problem → user → technology → real-world impact</b>
+</i>
+</p>
 
 <p align="left">
   <img
@@ -14,81 +22,81 @@
 
 ---
 
-- 🧑🏻‍💻 I’m currently learning **System Design, Distributed Systems & GenAI Architectures**
+### 🚀 About Me
 
-- 💻 I’m currently working on **AI-driven backend systems, RAG pipelines & distributed orchestration**
+- 🧠 I enjoy working at the **intersection of Product, Backend Systems & AI**
+- 🔍 Known for going deep into **problem discovery, trade-offs & real-world constraints**
+- 🧩 Comfortable in **ambiguous, early-stage environments**
+- 🛠️ Experience handling **product thinking + hands-on development together**
 
-- 🤝🏻 I’m open to collaborating on **Backend Systems, AI Infrastructure, Microservices, Automation & Cloud Projects**
+---
 
-- 📫 Reach me at : **<dhirajwasu120@gmail.com>**
+### 📚 Currently Focused On
 
-- 🌐 Portfolio : **[dhiraj-wasu.github.io](https://dhiraj-wasu.github.io/)**
+- 🧑🏻‍💻 **System Design, Distributed Systems & GenAI Architectures**
+- 💻 **AI-driven backend systems, RAG pipelines & agentic orchestration**
+- 🧪 Turning **rough ideas into scalable, real-world systems**
 
-- 💼 LinkedIn : **[Dhiraj Wasu](https://www.linkedin.com/in/dhiraj-wasu-71bb271b4/)**
+---
+
+### 🤝 Open To Collaborate On
+
+- Backend Systems & Microservices  
+- AI Infrastructure & Agentic Workflows  
+- Product-driven Engineering Projects  
+- Automation, Cloud & Platform Engineering  
+
+---
+
+### 📫 Reach Me
+
+- 📧 Email: **dhirajwasu120@gmail.com**
+- 🌐 Portfolio: **[dhiraj-wasu.github.io](https://dhiraj-wasu.github.io/)**
+- 💼 LinkedIn: **[Dhiraj Wasu](https://www.linkedin.com/in/dhiraj-wasu-71bb271b4/)**
 
 ---
 
 <h3 align="left">🤙🏻 Connect with me:</h3>
 <p align="left">
   <a href="https://www.hackerrank.com/profile/dhirajwasu120" target="_blank">
-    <kbd>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
-        width="40" height="32" />
-    </kbd>
+    <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="32" /></kbd>
   </a>
   <a href="mailto:dhirajwasu120@gmail.com" target="_blank">
-    <kbd>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
-        width="40" height="32" />
-    </kbd>
+    <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="32" /></kbd>
   </a>
   <a href="https://www.linkedin.com/in/dhiraj-wasu-71bb271b4/" target="_blank">
-    <kbd>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
-        width="40" height="32" />
-    </kbd>
+    <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="32" /></kbd>
   </a>
   <a href="https://github.com/dhiraj-wasu" target="_blank">
-    <kbd>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
-        width="40" height="32" />
-    </kbd>
+    <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="32" /></kbd>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tech Stack:</h3>
+<h3 align="left">🛠️ Tech Stack</h3>
 
 <p align="left">
 
-<kbd><img src="https://skillicons.dev/icons?i=cpp&theme=light" /></kbd>
-<kbd><img src="https://skillicons.dev/icons?i=python&theme=light" /></kbd>
-<kbd><img src="https://skillicons.dev/icons?i=java&theme=light" /></kbd>
-<kbd><img src="https://skillicons.dev/icons?i=c&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=light" /></kbd><br><br>
 
-<kbd><img src="https://skillicons.dev/icons?i=django&theme=light" /></kbd>
-<kbd><img src="https://skillicons.dev/icons?i=fastapi&theme=light" /></kbd>
-<kbd><img src="https://skillicons.dev/icons?i=redis&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=django,fastapi,redis&theme=light" /></kbd><br><br>
 
-<kbd><img src="https://skillicons.dev/icons?i=postgresql&theme=light" /></kbd>
-<kbd><img src="https://skillicons.dev/icons?i=mysql&theme=light" /></kbd>
-<kbd><img src="https://skillicons.dev/icons?i=mongodb&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=light" /></kbd><br><br>
 
-<kbd><img src="https://skillicons.dev/icons?i=docker&theme=light" /></kbd>
-<kbd><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" /></kbd>
-<kbd><img src="https://skillicons.dev/icons?i=aws&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=light" /></kbd><br><br>
 
-<kbd><img src="https://skillicons.dev/icons?i=git&theme=light" /></kbd>
-<kbd><img src="https://skillicons.dev/icons?i=github&theme=light" /></kbd>
-<kbd><img src="https://skillicons.dev/icons?i=postman&theme=light" /></kbd>
-<kbd><img src="https://skillicons.dev/icons?i=linux&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=git,github,postman,linux&theme=light" /></kbd>
 
 </p>
 
 ---
 
-<h3 align="left">⚙️ Projects:</h3>
+<h3 align="left">⚙️ Featured Projects</h3>
+
+<p align="left">
+<b>📌 Focus:</b> Product-first systems, backend scalability & AI-driven workflows
+</p>
 
 <a href="https://github.com/dhiraj-wasu">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=Anuvada" />
@@ -104,16 +112,7 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
----
+<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
   <picture>
@@ -140,10 +139,10 @@
 
 - 🥇 Student of the Institute & Department – 2023  
 - 🥇 Winner – State Level Project Competition (DIPEX) – 2023  
-- 🎓 Wireless Security Bootcamp – IIT Hyderabad  
+
 
 ---
 
 <p align="center">
-✨ <i>Building scalable systems that work under real-world pressure</i> ✨
+✨ <i>Building products and systems that survive real-world complexity</i> ✨
 </p>

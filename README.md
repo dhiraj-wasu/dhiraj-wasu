@@ -18,7 +18,8 @@ I don’t just write code — I build products by connecting
 </p>
 
 <img align="right" alt="Coding" width="400"
-  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFobnpybzlseDBkZmF6ajQ2Yml1MnAydmo0NWd5aGFicGcwcjgzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
+
 
 ---
 
@@ -74,7 +75,7 @@ I don’t just write code — I build products by connecting
 
 ---
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<!-- <h3 align="left">🛠️ Tech Stack</h3>
 
 <p align="left">
 
@@ -88,9 +89,68 @@ I don’t just write code — I build products by connecting
 
 <kbd><img src="https://skillicons.dev/icons?i=git,github,postman,linux&theme=light" /></kbd>
 
-</p>
+</p> -->
 
 ---
+<h3 align="left">🛠️ Tech Stack</h3>
+
+<p align="left">
+
+<!-- Languages -->
+<b>Languages</b><br>
+<kbd>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,sql&theme=light" />
+</kbd><br><br>
+
+<!-- Frameworks & Backend -->
+<b>Frameworks & Backend</b><br>
+<kbd>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,redis&theme=light" />
+</kbd><br><br>
+
+<!-- Databases -->
+<b>Databases</b><br>
+<kbd>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=light" />
+</kbd><br><br>
+
+<!-- Cloud & Infrastructure -->
+<b>Cloud & Infrastructure</b><br>
+<kbd>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=light" />
+</kbd><br>
+<sub>
+Microservices • CI/CD (Familiar)
+</sub><br><br>
+
+<!-- AI & GenAI (SPECIAL FOCUS) -->
+<b>AI & GenAI</b><br>
+<kbd>
+  <img src="https://skillicons.dev/icons?i=python&theme=light" />
+</kbd><br>
+<sub>
+LLMs • RAG • Autonomous Agents • Fine-tuning • Knowledge Graphs<br>
+LangChain • Langfuse • Query Routing • MCP
+</sub><br><br>
+
+<!-- Software Systems Engineering -->
+<!-- <b>Software Systems Engineering</b><br>
+<kbd>
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" />
+</kbd><br>
+<sub> -->
+
+<!-- Developer Tools -->
+<b>Developer Tools</b><br>
+<kbd>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,linux&theme=light" />
+</kbd><br>
+<sub>
+GitHub Copilot • GitHub Actions (Basic)
+</sub><br><br>
+
+</p>
+
 
 <h3 align="left">⚙️ Featured Projects</h3>
 
@@ -99,15 +159,15 @@ I don’t just write code — I build products by connecting
 </p>
 
 <a href="https://github.com/dhiraj-wasu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=Anuvada" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=Anuvada_AI" />
 </a>
 
 <a href="https://github.com/dhiraj-wasu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=AI-Mesh-System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=NetMonAI-Ransom2" />
 </a>
 
 <a href="https://github.com/dhiraj-wasu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=Automated-College-System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=AI-Mesh-System-with-Queue-Based-Distribution " />
 </a>
 
 ---

@@ -1,43 +1,149 @@
-<h1 align="center">Hi 👋 I'm Dhiraj Wasu!</h1>
+<!-- [![MasterHead] -->
+<h1 align="center">👋🏻 Hey there, I'm Dhiraj Wasu</h1>
+<h3 align="center"> CSE Undergraduate | Backend Engineer | AI & Systems Enthusiast</h3>
 
-<p align="center">
-	<a href="https://dhiraj-wasu.github.io/"><img src="https://img.shields.io/badge/portfolio-E6007A?style=for-the-badge&logo=polkadot&logoColor=000" alt="Portfolio"></a>
-	<a href="mailto:dhirajwasu120@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-	<a href="https://www.linkedin.com/in/dhiraj-wasu-71bb271b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-	<!-- <a href="https://twitter.com/dhiraj-wasu_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> -->
-	<!-- <a href="https://www.codechef.com/users/dhiraj-wasu"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="Codechef"></a> -->
-	<a href="https://www.hackerrank.com/profile/dhirajwasu120"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
-	<!-- <a href="https://www.hackerearth.com/@dhiraj-wasu"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="Hackerearth"></a> -->
-	<!-- <a href="https://trailblazer.me/id/dhiraj-wasu"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce Trailhead"></a> -->
-	<a href="https://github.com/dhiraj-wasu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Recursion"></a>
-	<!-- <a href="https://stackoverflow.com/users/17860142/dhiraj-wasu"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow"></a>
-	<a href="https://forum.xda-developers.com/m/prathmesh613.6961670/"><img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white" alt="XDA Developers"></a> -->
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=dhiraj-wasu&label=Profile%20views&color=0e75b6&style=flat"
+    alt="dhiraj-wasu"
+  />
+</p>
+
+<img align="right" alt="Coding" width="400"
+  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+---
+
+- 🧑🏻‍💻 I’m currently learning **System Design, Distributed Systems & GenAI Architectures**
+
+- 💻 I’m currently working on **AI-driven backend systems, RAG pipelines & distributed orchestration**
+
+- 🤝🏻 I’m open to collaborating on **Backend Systems, AI Infrastructure, Microservices, Automation & Cloud Projects**
+
+- 📫 Reach me at : **<dhirajwasu120@gmail.com>**
+
+- 🌐 Portfolio : **[dhiraj-wasu.github.io](https://dhiraj-wasu.github.io/)**
+
+- 💼 LinkedIn : **[Dhiraj Wasu](https://www.linkedin.com/in/dhiraj-wasu-71bb271b4/)**
+
+---
+
+<h3 align="left">🤙🏻 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/dhirajwasu120" target="_blank">
+    <kbd>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+        width="40" height="32" />
+    </kbd>
+  </a>
+  <a href="mailto:dhirajwasu120@gmail.com" target="_blank">
+    <kbd>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
+        width="40" height="32" />
+    </kbd>
+  </a>
+  <a href="https://www.linkedin.com/in/dhiraj-wasu-71bb271b4/" target="_blank">
+    <kbd>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
+        width="40" height="32" />
+    </kbd>
+  </a>
+  <a href="https://github.com/dhiraj-wasu" target="_blank">
+    <kbd>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+        width="40" height="32" />
+    </kbd>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+<h3 align="left">🛠️ Tech Stack:</h3>
 
-🔭 Currently focused on: **End-to-End Engineering** — Backend 💾 + DevOps ⚙️ + CI/CD 🚀 + Cloud ☁️  
-🌱 Aspiring **AI Solution Architect** — connecting software engineering with intelligent, scalable systems 🤖  
-⚡ Love working across the stack: designing APIs, automating workflows, optimizing infra & experimenting with AI  
-📖 Lifelong learner — diving into **system design, distributed systems, and AI-driven architectures** 📚  
-☁️ **2025 Goal:** Build cloud-native platforms that merge scalability, reliability, and intelligence  
-💡 **Motto:** *Not just a backend dev — a problem solver across the stack* ✨  
+<p align="left">
+
+<kbd><img src="https://skillicons.dev/icons?i=cpp&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=python&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=java&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=c&theme=light" /></kbd>
+
+<kbd><img src="https://skillicons.dev/icons?i=django&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=fastapi&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=redis&theme=light" /></kbd>
+
+<kbd><img src="https://skillicons.dev/icons?i=postgresql&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=mysql&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=mongodb&theme=light" /></kbd>
+
+<kbd><img src="https://skillicons.dev/icons?i=docker&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=aws&theme=light" /></kbd>
+
+<kbd><img src="https://skillicons.dev/icons?i=git&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=github&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=postman&theme=light" /></kbd>
+<kbd><img src="https://skillicons.dev/icons?i=linux&theme=light" /></kbd>
+
+</p>
 
 ---
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=dhiraj-wasu" alt="Views on Profile"> 
+<h3 align="left">⚙️ Projects:</h3>
+
+<a href="https://github.com/dhiraj-wasu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=Anuvada" />
+</a>
+
+<a href="https://github.com/dhiraj-wasu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=AI-Mesh-System" />
+</a>
+
+<a href="https://github.com/dhiraj-wasu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=Automated-College-System" />
+</a>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=dhiraj-wasu&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=dhiraj-wasu&show_icons=true" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-wasu&layout=compact&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-wasu&layout=compact" />
+  </picture>
 </p>
 
 <p align="center">
-	<img width="420px" height="160px" src="https://github-readme-stats.vercel.app/api?username=dhiraj-wasu&count_private=true&show_icons=true&theme=radical" alt="GitHub Status">
-	<img width="420px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-wasu&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=dhiraj-wasu&theme=dark&hide_border=true" />
 </p>
 
-<p align="center"> 
-	<img width="900px" height="300px" src="https://github-readme-streak-stats.herokuapp.com?user=dhiraj-wasu&theme=dark&hide_border=true"> 
-</p>
+---
 
-# dhiraj-wasu
+<h3 align="left">🏆 Achievements</h3>
+
+- 🥇 Student of the Institute & Department – 2023  
+- 🥇 Winner – State Level Project Competition (DIPEX) – 2023  
+- 🎓 Wireless Security Bootcamp – IIT Hyderabad  
+
+---
+
+<p align="center">
+✨ <i>Building scalable systems that work under real-world pressure</i> ✨
+</p>

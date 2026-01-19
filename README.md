@@ -166,7 +166,7 @@ GitHub Copilot • GitHub Actions (Basic)
 </a>
 
 <a href="https://github.com/dhiraj-wasu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=AI-Mesh-System-with-Queue-Based-Distribution " />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=AI-Mesh-System-with-Queue-Based-Distribution" />
 </a>
 
 ---

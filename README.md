@@ -157,16 +157,16 @@ GitHub Copilot • GitHub Actions (Basic)
 <b>📌 Focus:</b> Product-first systems, backend scalability & AI-driven workflows
 </p>
 
-<a href="https://github.com/dhiraj-wasu/Anuvada_AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=Anuvada_AI-A-Philosophy-Aware-Guidance-System" />
+<a href="https://github.com/dhiraj-wasu/Anuvada_AI-A-Philosophy-Aware-Guidance-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=Anuvada_AI-A-Philosophy-Aware-Guidance-System"/>
 </a>
 
-<a href="https://github.com/dhiraj-wasu/ZeroTrust-Defender-AI-Driven-Ransomware-Detection-Central-Intelligence-System">
+<a href="https://github.com/dhiraj-wasu/ZeroTrust-Defender-AI-Driven-Ransomware-Detection">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=ZeroTrust-Defender-AI-Driven-Ransomware-Detection"/>
 </a>
 
 <a href="https://github.com/dhiraj-wasu/AI-Mesh-System-with-Queue-Based-Distribution">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=AI-Mesh-System-with-Queue-Based-Distribution" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhiraj-wasu&repo=AI-Mesh-System-with-Queue-Based-Distribution"/>
 </a>
 
 ---
